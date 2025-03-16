@@ -1,0 +1,31 @@
+Food Item,Ingredients,Allergens,Risk Level,Alternative Suggestions
+Almond Milk,"Almonds, Water, Sugar",Nuts,High,"Oat Milk, Coconut Milk"
+Apple Pie,"Apples, Flour, Butter, Eggs","Gluten, Dairy, Eggs",Medium,Gluten-Free Apple Pie
+Peanut Butter,"Peanuts, Salt, Sugar",Peanuts,High,Sunflower Seed Butter
+Scrambled Eggs,"Eggs, Butter, Salt","Eggs, Dairy",High,Tofu Scramble
+Cheeseburger,"Beef, Cheese, Bun, Lettuce","Dairy, Gluten",High,Lettuce-Wrapped Burger
+Sushi Roll,"Rice, Nori, Salmon, Avocado",Fish,Medium,Vegetarian Sushi
+Pancakes,"Flour, Eggs, Milk, Sugar","Gluten, Dairy, Eggs",Medium,Gluten-Free Pancakes
+Caesar Salad,"Lettuce, Chicken, Parmesan, Dressing","Dairy, Fish",Medium,Vegan Caesar Salad
+Chocolate Cake,"Flour, Cocoa, Sugar, Butter, Eggs","Gluten, Dairy, Eggs",High,Gluten-Free Chocolate Cake
+Shrimp Cocktail,"Shrimp, Cocktail Sauce",Shellfish,High,Grilled Fish
+Tuna Sandwich,"Tuna, Bread, Mayonnaise","Gluten, Eggs, Seafood",Medium,Lettuce Wraps
+Soy Sauce,"Soybeans, Wheat, Salt","Soy, Gluten",Medium,Coconut Aminos
+Ice Cream,"Milk, Sugar, Cream",Dairy,High,Dairy-Free Ice Cream
+French Fries,"Potatoes, Oil, Salt",None,Low,Baked Potatoes
+Wheat Bread,"Wheat Flour, Yeast, Salt",Gluten,Medium,Gluten-Free Bread
+Mushroom Soup,"Mushrooms, Cream, Garlic","Dairy, Mushrooms",Medium,Dairy-Free Mushroom Soup
+Peach Cobbler,"Peaches, Sugar, Flour, Butter","Gluten, Dairy",Medium,Gluten-Free Peach Cobbler
+Yogurt,"Milk, Bacteria Cultures",Dairy,High,Almond Yogurt
+Oatmeal,"Oats, Water, Sugar",Gluten,Medium,Quinoa Porridge
+Trail Mix,"Nuts, Dried Fruits, Seeds","Nuts, Dried Fruits",High,Nut-Free Trail Mix
+Butter Chicken,"Chicken, Butter, Cream, Spices",Dairy,High,Vegan Butter Chicken
+Granola Bar,"Oats, Nuts, Honey","Nuts, Gluten",Medium,Nut-Free Granola Bar
+Cheese Pizza,"Flour, Cheese, Tomato Sauce","Dairy, Gluten",High,Vegan Cheese Pizza
+Cereal,"Cornflakes, Milk, Sugar","Dairy, Gluten",Medium,Rice-Based Cereal
+Hummus,"Chickpeas, Tahini, Lemon Juice",Sesame,Medium,Nut-Free Hummus
+Peanut Noodles,"Peanuts, Noodles, Soy Sauce","Peanuts, Gluten, Soy",High,Sunflower Seed Butter
+Milkshake,"Milk, Ice Cream, Sugar",Dairy,High,Fruit Smoothie
+Pasta Alfredo,"Pasta, Cream, Cheese","Dairy, Gluten",High,Cashew Alfredo Sauce
+Energy Drink,"Caffeine, Sugar, Flavoring",Caffeine,Medium,Decaf Herbal Tea
+Protein Bar,"Whey Protein, Nuts, Chocolate","Nuts, Dairy, Gluten",High,Nut-Free Protein Bar
